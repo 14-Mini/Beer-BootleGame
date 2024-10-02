@@ -2,7 +2,7 @@
 **Overview**
 The Beer Bottles Game is a simple command-line game implemented in Java. The game involves two players: the user and the computer. Starting with 21 beer bottles, both players take turns picking between 1 and 4 bottles. The player who is forced to pick up the last bottle loses the game.
 
-**How to Play**
+**How to Play** 
 -There are 21 beer bottles to start.
 -You can choose whether to play first or let the computer take the first turn.
 -On each turn, the player picks between 1 and 4 bottles.
